@@ -6,7 +6,7 @@ void g() {}
 int main()
 {
 	// comment
-	f();
+	//f();
 	g();
 	printf("hello\n");
 }
